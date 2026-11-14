@@ -1,0 +1,7 @@
+{
+  "operation": "complete_cases",
+  "fields": [
+    "hours",
+    "score"
+  ]
+}

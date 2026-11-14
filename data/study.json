@@ -1,0 +1,1739 @@
+{
+  "records": [
+    {
+      "student": "s-000",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 17.46,
+      "part_a": 16.48,
+      "part_b": 20.98,
+      "score": 37.46,
+      "lab_hours": null
+    },
+    {
+      "student": "s-001",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": null,
+      "part_a": 24.38,
+      "part_b": 26.57,
+      "score": 50.95,
+      "lab_hours": 24.63
+    },
+    {
+      "student": "s-002",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 3.29,
+      "part_a": 11.68,
+      "part_b": 10.05,
+      "score": 21.73,
+      "lab_hours": 1.97
+    },
+    {
+      "student": "s-003",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 32.9,
+      "part_a": 23.42,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 19.74
+    },
+    {
+      "student": "s-004",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 4.87,
+      "part_a": 9.28,
+      "part_b": 21.35,
+      "score": 30.63,
+      "lab_hours": null
+    },
+    {
+      "student": "s-005",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 22.79,
+      "part_a": 22.89,
+      "part_b": 27.25,
+      "score": 50.14,
+      "lab_hours": 13.67
+    },
+    {
+      "student": "s-006",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 15.4,
+      "part_a": 16.05,
+      "part_b": 20.78,
+      "score": 36.83,
+      "lab_hours": 9.24
+    },
+    {
+      "student": "s-007",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 35.7,
+      "part_a": 29.33,
+      "part_b": 24.59,
+      "score": 53.92,
+      "lab_hours": 21.42
+    },
+    {
+      "student": "s-008",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": null,
+      "part_a": 21.73,
+      "part_b": 32.37,
+      "score": 54.1,
+      "lab_hours": null
+    },
+    {
+      "student": "s-009",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 47.42,
+      "part_a": 33.44,
+      "part_b": 32.51,
+      "score": 65.95,
+      "lab_hours": 28.45
+    },
+    {
+      "student": "s-010",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 14.81,
+      "part_a": 24.19,
+      "part_b": 22.58,
+      "score": 46.77,
+      "lab_hours": 8.89
+    },
+    {
+      "student": "s-011",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 8.13,
+      "part_a": 16.5,
+      "part_b": 19.25,
+      "score": 35.75,
+      "lab_hours": 4.88
+    },
+    {
+      "student": "s-012",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 37.79,
+      "part_a": 30.84,
+      "part_b": null,
+      "score": null,
+      "lab_hours": null
+    },
+    {
+      "student": "s-013",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 28.22,
+      "part_a": 24.16,
+      "part_b": 33.63,
+      "score": 57.79,
+      "lab_hours": 16.93
+    },
+    {
+      "student": "s-014",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 21.24,
+      "part_a": 24.66,
+      "part_b": 22.54,
+      "score": 47.2,
+      "lab_hours": 12.74
+    },
+    {
+      "student": "s-015",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": null,
+      "part_a": 1.07,
+      "part_b": 14.93,
+      "score": 16.0,
+      "lab_hours": 1.28
+    },
+    {
+      "student": "s-016",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 34.97,
+      "part_a": 31.84,
+      "part_b": 33.02,
+      "score": 64.86,
+      "lab_hours": null
+    },
+    {
+      "student": "s-017",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 33.63,
+      "part_a": 35.12,
+      "part_b": 30.05,
+      "score": 65.17,
+      "lab_hours": 20.18
+    },
+    {
+      "student": "s-018",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 15.01,
+      "part_a": 17.89,
+      "part_b": 20.89,
+      "score": 38.78,
+      "lab_hours": 9.01
+    },
+    {
+      "student": "s-019",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 7.68,
+      "part_a": 14.51,
+      "part_b": 13.23,
+      "score": 27.74,
+      "lab_hours": 4.61
+    },
+    {
+      "student": "s-020",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 49.07,
+      "part_a": 44.64,
+      "part_b": 31.18,
+      "score": 75.82,
+      "lab_hours": null
+    },
+    {
+      "student": "s-021",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 43.56,
+      "part_a": 37.75,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 26.14
+    },
+    {
+      "student": "s-022",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": null,
+      "part_a": 15.16,
+      "part_b": 21.42,
+      "score": 36.58,
+      "lab_hours": 9.81
+    },
+    {
+      "student": "s-023",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 40.6,
+      "part_a": 26.44,
+      "part_b": 35.65,
+      "score": 62.09,
+      "lab_hours": 24.36
+    },
+    {
+      "student": "s-024",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 26.92,
+      "part_a": 15.89,
+      "part_b": 23.97,
+      "score": 39.86,
+      "lab_hours": null
+    },
+    {
+      "student": "s-025",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 27.51,
+      "part_a": 28.56,
+      "part_b": 20.87,
+      "score": 49.43,
+      "lab_hours": 16.51
+    },
+    {
+      "student": "s-026",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 2.32,
+      "part_a": 13.11,
+      "part_b": 11.19,
+      "score": 24.3,
+      "lab_hours": 1.39
+    },
+    {
+      "student": "s-027",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 4.03,
+      "part_a": 17.81,
+      "part_b": 13.48,
+      "score": 31.29,
+      "lab_hours": 2.42
+    },
+    {
+      "student": "s-028",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 4.81,
+      "part_a": 15.77,
+      "part_b": 17.8,
+      "score": 33.57,
+      "lab_hours": null
+    },
+    {
+      "student": "s-029",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": null,
+      "part_a": 31.25,
+      "part_b": 30.26,
+      "score": 61.51,
+      "lab_hours": 24.32
+    },
+    {
+      "student": "s-030",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 23.85,
+      "part_a": 21.66,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 14.31
+    },
+    {
+      "student": "s-031",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 18.91,
+      "part_a": 26.33,
+      "part_b": 21.4,
+      "score": 47.73,
+      "lab_hours": 11.35
+    },
+    {
+      "student": "s-032",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 31.61,
+      "part_a": 33.53,
+      "part_b": 27.51,
+      "score": 61.04,
+      "lab_hours": null
+    },
+    {
+      "student": "s-033",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 26.19,
+      "part_a": 28.83,
+      "part_b": 28.53,
+      "score": 57.36,
+      "lab_hours": 15.71
+    },
+    {
+      "student": "s-034",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 7.3,
+      "part_a": 18.85,
+      "part_b": 27.33,
+      "score": 46.18,
+      "lab_hours": 4.38
+    },
+    {
+      "student": "s-035",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 24.73,
+      "part_a": 18.77,
+      "part_b": 35.43,
+      "score": 54.2,
+      "lab_hours": 14.84
+    },
+    {
+      "student": "s-036",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": null,
+      "part_a": 26.09,
+      "part_b": 24.68,
+      "score": 50.77,
+      "lab_hours": null
+    },
+    {
+      "student": "s-037",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 16.18,
+      "part_a": 15.53,
+      "part_b": 23.06,
+      "score": 38.59,
+      "lab_hours": 9.71
+    },
+    {
+      "student": "s-038",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 25.62,
+      "part_a": 20.26,
+      "part_b": 28.24,
+      "score": 48.5,
+      "lab_hours": 15.37
+    },
+    {
+      "student": "s-039",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 24.12,
+      "part_a": 21.4,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 14.47
+    },
+    {
+      "student": "s-040",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 32.94,
+      "part_a": 29.12,
+      "part_b": 22.5,
+      "score": 51.62,
+      "lab_hours": null
+    },
+    {
+      "student": "s-041",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 43.96,
+      "part_a": 35.66,
+      "part_b": 31.74,
+      "score": 67.4,
+      "lab_hours": 26.38
+    },
+    {
+      "student": "s-042",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 24.91,
+      "part_a": 22.84,
+      "part_b": 22.76,
+      "score": 45.6,
+      "lab_hours": 14.95
+    },
+    {
+      "student": "s-043",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": null,
+      "part_a": 31.71,
+      "part_b": 25.71,
+      "score": 57.42,
+      "lab_hours": 19.0
+    },
+    {
+      "student": "s-044",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 40.95,
+      "part_a": 37.78,
+      "part_b": 37.06,
+      "score": 74.84,
+      "lab_hours": null
+    },
+    {
+      "student": "s-045",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 45.32,
+      "part_a": 42.38,
+      "part_b": 24.55,
+      "score": 66.93,
+      "lab_hours": 27.19
+    },
+    {
+      "student": "s-046",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 7.34,
+      "part_a": 16.19,
+      "part_b": 29.09,
+      "score": 45.28,
+      "lab_hours": 4.4
+    },
+    {
+      "student": "s-047",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 6.47,
+      "part_a": 12.05,
+      "part_b": 10.23,
+      "score": 22.28,
+      "lab_hours": 3.88
+    },
+    {
+      "student": "s-048",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 7.65,
+      "part_a": 14.95,
+      "part_b": null,
+      "score": null,
+      "lab_hours": null
+    },
+    {
+      "student": "s-049",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 39.21,
+      "part_a": 40.71,
+      "part_b": 24.48,
+      "score": 65.19,
+      "lab_hours": 23.53
+    },
+    {
+      "student": "s-050",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": null,
+      "part_a": 19.15,
+      "part_b": 24.99,
+      "score": 44.14,
+      "lab_hours": 9.93
+    },
+    {
+      "student": "s-051",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 49.2,
+      "part_a": 42.96,
+      "part_b": 39.26,
+      "score": 82.22,
+      "lab_hours": 29.52
+    },
+    {
+      "student": "s-052",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 47.94,
+      "part_a": 35.79,
+      "part_b": 32.59,
+      "score": 68.38,
+      "lab_hours": null
+    },
+    {
+      "student": "s-053",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 21.34,
+      "part_a": 22.11,
+      "part_b": 25.07,
+      "score": 47.18,
+      "lab_hours": 12.8
+    },
+    {
+      "student": "s-054",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 34.79,
+      "part_a": 36.27,
+      "part_b": 31.49,
+      "score": 67.76,
+      "lab_hours": 20.87
+    },
+    {
+      "student": "s-055",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 13.73,
+      "part_a": 16.53,
+      "part_b": 24.01,
+      "score": 40.54,
+      "lab_hours": 8.24
+    },
+    {
+      "student": "s-056",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 7.79,
+      "part_a": 16.18,
+      "part_b": 14.25,
+      "score": 30.43,
+      "lab_hours": null
+    },
+    {
+      "student": "s-057",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": null,
+      "part_a": 28.7,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 20.71
+    },
+    {
+      "student": "s-058",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 29.3,
+      "part_a": 31.75,
+      "part_b": 25.12,
+      "score": 56.87,
+      "lab_hours": 17.58
+    },
+    {
+      "student": "s-059",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 41.47,
+      "part_a": 39.65,
+      "part_b": 34.83,
+      "score": 74.48,
+      "lab_hours": 24.88
+    },
+    {
+      "student": "s-060",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 42.21,
+      "part_a": 31.26,
+      "part_b": 32.93,
+      "score": 64.19,
+      "lab_hours": null
+    },
+    {
+      "student": "s-061",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 14.97,
+      "part_a": 21.16,
+      "part_b": 29.89,
+      "score": 51.05,
+      "lab_hours": 8.98
+    },
+    {
+      "student": "s-062",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 45.17,
+      "part_a": 31.97,
+      "part_b": 41.79,
+      "score": 73.76,
+      "lab_hours": 27.1
+    },
+    {
+      "student": "s-063",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 8.36,
+      "part_a": 17.37,
+      "part_b": 11.74,
+      "score": 29.11,
+      "lab_hours": 5.02
+    },
+    {
+      "student": "s-064",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": null,
+      "part_a": 14.83,
+      "part_b": 28.53,
+      "score": 43.36,
+      "lab_hours": null
+    },
+    {
+      "student": "s-065",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 46.14,
+      "part_a": 38.6,
+      "part_b": 38.57,
+      "score": 77.17,
+      "lab_hours": 27.68
+    },
+    {
+      "student": "s-066",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 11.97,
+      "part_a": 15.39,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 7.18
+    },
+    {
+      "student": "s-067",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 4.67,
+      "part_a": 8.78,
+      "part_b": 23.68,
+      "score": 32.46,
+      "lab_hours": 2.8
+    },
+    {
+      "student": "s-068",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 47.54,
+      "part_a": 40.6,
+      "part_b": 39.32,
+      "score": 79.92,
+      "lab_hours": null
+    },
+    {
+      "student": "s-069",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 21.31,
+      "part_a": 19.78,
+      "part_b": 12.31,
+      "score": 32.09,
+      "lab_hours": 12.79
+    },
+    {
+      "student": "s-070",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 11.6,
+      "part_a": 10.46,
+      "part_b": 13.06,
+      "score": 23.52,
+      "lab_hours": 6.96
+    },
+    {
+      "student": "s-071",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": null,
+      "part_a": 29.03,
+      "part_b": 23.56,
+      "score": 52.59,
+      "lab_hours": 6.12
+    },
+    {
+      "student": "s-072",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 40.77,
+      "part_a": 37.03,
+      "part_b": 26.23,
+      "score": 63.26,
+      "lab_hours": null
+    },
+    {
+      "student": "s-073",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 14.29,
+      "part_a": 15.95,
+      "part_b": 10.87,
+      "score": 26.82,
+      "lab_hours": 8.57
+    },
+    {
+      "student": "s-074",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 35.0,
+      "part_a": 34.17,
+      "part_b": 29.97,
+      "score": 64.14,
+      "lab_hours": 21.0
+    },
+    {
+      "student": "s-075",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 41.57,
+      "part_a": 41.53,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 24.94
+    },
+    {
+      "student": "s-076",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 10.12,
+      "part_a": 25.53,
+      "part_b": 22.89,
+      "score": 48.42,
+      "lab_hours": null
+    },
+    {
+      "student": "s-077",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 34.15,
+      "part_a": 28.23,
+      "part_b": 34.83,
+      "score": 63.06,
+      "lab_hours": 20.49
+    },
+    {
+      "student": "s-078",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": null,
+      "part_a": 35.84,
+      "part_b": 44.46,
+      "score": 80.3,
+      "lab_hours": 28.25
+    },
+    {
+      "student": "s-079",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 7.86,
+      "part_a": 11.44,
+      "part_b": 12.66,
+      "score": 24.1,
+      "lab_hours": 4.72
+    },
+    {
+      "student": "s-080",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 25.28,
+      "part_a": 27.53,
+      "part_b": 30.0,
+      "score": 57.53,
+      "lab_hours": null
+    },
+    {
+      "student": "s-081",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 15.09,
+      "part_a": 20.77,
+      "part_b": 16.92,
+      "score": 37.69,
+      "lab_hours": 9.05
+    },
+    {
+      "student": "s-082",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 27.71,
+      "part_a": 20.75,
+      "part_b": 24.26,
+      "score": 45.01,
+      "lab_hours": 16.63
+    },
+    {
+      "student": "s-083",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 40.0,
+      "part_a": 33.41,
+      "part_b": 36.86,
+      "score": 70.27,
+      "lab_hours": 24.0
+    },
+    {
+      "student": "s-084",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 48.36,
+      "part_a": 45.09,
+      "part_b": null,
+      "score": null,
+      "lab_hours": null
+    },
+    {
+      "student": "s-085",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": null,
+      "part_a": 20.13,
+      "part_b": 18.48,
+      "score": 38.61,
+      "lab_hours": 6.47
+    },
+    {
+      "student": "s-086",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 46.37,
+      "part_a": 38.13,
+      "part_b": 40.41,
+      "score": 78.54,
+      "lab_hours": 27.82
+    },
+    {
+      "student": "s-087",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 30.16,
+      "part_a": 28.9,
+      "part_b": 28.29,
+      "score": 57.19,
+      "lab_hours": 18.1
+    },
+    {
+      "student": "s-088",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 38.85,
+      "part_a": 36.69,
+      "part_b": 27.67,
+      "score": 64.36,
+      "lab_hours": null
+    },
+    {
+      "student": "s-089",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 2.21,
+      "part_a": 12.46,
+      "part_b": 16.43,
+      "score": 28.89,
+      "lab_hours": 1.33
+    },
+    {
+      "student": "s-090",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 33.68,
+      "part_a": 23.3,
+      "part_b": 26.5,
+      "score": 49.8,
+      "lab_hours": 20.21
+    },
+    {
+      "student": "s-091",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 14.42,
+      "part_a": 18.79,
+      "part_b": 17.67,
+      "score": 36.46,
+      "lab_hours": 8.65
+    },
+    {
+      "student": "s-092",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": null,
+      "part_a": 26.56,
+      "part_b": 23.35,
+      "score": 49.91,
+      "lab_hours": null
+    },
+    {
+      "student": "s-093",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 49.75,
+      "part_a": 37.35,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 29.85
+    },
+    {
+      "student": "s-094",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 33.73,
+      "part_a": 26.03,
+      "part_b": 25.66,
+      "score": 51.69,
+      "lab_hours": 20.24
+    },
+    {
+      "student": "s-095",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 16.23,
+      "part_a": 26.49,
+      "part_b": 26.87,
+      "score": 53.36,
+      "lab_hours": 9.74
+    },
+    {
+      "student": "s-096",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 11.7,
+      "part_a": 19.14,
+      "part_b": 21.14,
+      "score": 40.28,
+      "lab_hours": null
+    },
+    {
+      "student": "s-097",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 42.05,
+      "part_a": 39.76,
+      "part_b": 27.66,
+      "score": 67.42,
+      "lab_hours": 25.23
+    },
+    {
+      "student": "s-098",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 29.52,
+      "part_a": 20.93,
+      "part_b": 22.68,
+      "score": 43.61,
+      "lab_hours": 17.71
+    },
+    {
+      "student": "s-099",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": null,
+      "part_a": 31.22,
+      "part_b": 29.39,
+      "score": 60.61,
+      "lab_hours": 23.75
+    },
+    {
+      "student": "s-100",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 34.76,
+      "part_a": 26.78,
+      "part_b": 28.36,
+      "score": 55.14,
+      "lab_hours": null
+    },
+    {
+      "student": "s-101",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 29.77,
+      "part_a": 26.76,
+      "part_b": 23.33,
+      "score": 50.09,
+      "lab_hours": 17.86
+    },
+    {
+      "student": "s-102",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 12.2,
+      "part_a": 20.05,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 7.32
+    },
+    {
+      "student": "s-103",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 34.9,
+      "part_a": 32.5,
+      "part_b": 32.9,
+      "score": 65.4,
+      "lab_hours": 20.94
+    },
+    {
+      "student": "s-104",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 36.1,
+      "part_a": 29.37,
+      "part_b": 36.75,
+      "score": 66.12,
+      "lab_hours": null
+    },
+    {
+      "student": "s-105",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 35.02,
+      "part_a": 33.5,
+      "part_b": 27.34,
+      "score": 60.84,
+      "lab_hours": 21.01
+    },
+    {
+      "student": "s-106",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": null,
+      "part_a": 17.94,
+      "part_b": 9.87,
+      "score": 27.81,
+      "lab_hours": 4.72
+    },
+    {
+      "student": "s-107",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 32.05,
+      "part_a": 29.51,
+      "part_b": 28.21,
+      "score": 57.72,
+      "lab_hours": 19.23
+    },
+    {
+      "student": "s-108",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": false,
+      "hours": 45.99,
+      "part_a": 39.81,
+      "part_b": 32.07,
+      "score": 71.88,
+      "lab_hours": null
+    },
+    {
+      "student": "s-109",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 44.33,
+      "part_a": 38.83,
+      "part_b": 40.62,
+      "score": 79.45,
+      "lab_hours": 26.6
+    },
+    {
+      "student": "s-110",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": true,
+      "hours": 8.59,
+      "part_a": 12.81,
+      "part_b": 24.86,
+      "score": 37.67,
+      "lab_hours": 5.15
+    },
+    {
+      "student": "s-111",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 19.34,
+      "part_a": 24.87,
+      "part_b": null,
+      "score": null,
+      "lab_hours": 11.6
+    },
+    {
+      "student": "s-112",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": false,
+      "hours": 31.59,
+      "part_a": 31.22,
+      "part_b": 24.48,
+      "score": 55.7,
+      "lab_hours": null
+    },
+    {
+      "student": "s-113",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": null,
+      "part_a": 26.57,
+      "part_b": 29.13,
+      "score": 55.7,
+      "lab_hours": 23.23
+    },
+    {
+      "student": "s-114",
+      "cohort": 2025,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 32.51,
+      "part_a": 23.2,
+      "part_b": 27.6,
+      "score": 50.8,
+      "lab_hours": 19.51
+    },
+    {
+      "student": "s-115",
+      "cohort": 2026,
+      "major": "arts",
+      "active_project": true,
+      "hours": 41.92,
+      "part_a": 29.18,
+      "part_b": 30.89,
+      "score": 60.07,
+      "lab_hours": 25.15
+    },
+    {
+      "student": "s-116",
+      "cohort": 2025,
+      "major": "science",
+      "active_project": false,
+      "hours": 17.35,
+      "part_a": 19.51,
+      "part_b": 17.29,
+      "score": 36.8,
+      "lab_hours": null
+    },
+    {
+      "student": "s-117",
+      "cohort": 2026,
+      "major": "engineering",
+      "active_project": true,
+      "hours": 31.19,
+      "part_a": 26.68,
+      "part_b": 33.1,
+      "score": 59.78,
+      "lab_hours": 18.71
+    },
+    {
+      "student": "s-118",
+      "cohort": 2025,
+      "major": "arts",
+      "active_project": true,
+      "hours": 7.14,
+      "part_a": 20.56,
+      "part_b": 15.43,
+      "score": 35.99,
+      "lab_hours": 4.28
+    },
+    {
+      "student": "s-119",
+      "cohort": 2026,
+      "major": "science",
+      "active_project": true,
+      "hours": 29.06,
+      "part_a": 28.73,
+      "part_b": 34.6,
+      "score": 63.33,
+      "lab_hours": 17.44
+    }
+  ],
+  "missing_reasons": [
+    {
+      "student": "s-000",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-001",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-003",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-003",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-004",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-008",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-008",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-012",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-012",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-012",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-015",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-016",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-020",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-021",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-021",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-022",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-024",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-028",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-029",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-030",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-030",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-032",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-036",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-036",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-039",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-039",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-040",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-043",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-044",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-048",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-048",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-048",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-050",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-052",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-056",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-057",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-057",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-057",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-060",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-064",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-064",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-066",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-066",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-068",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-071",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-072",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-075",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-075",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-076",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-078",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-080",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-084",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-084",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-084",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-085",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-088",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-092",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-092",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-093",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-093",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-096",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-099",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-100",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-102",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-102",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-104",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-106",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-108",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-111",
+      "field": "part_b",
+      "reason": "refused"
+    },
+    {
+      "student": "s-111",
+      "field": "score",
+      "reason": "refused"
+    },
+    {
+      "student": "s-112",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    },
+    {
+      "student": "s-113",
+      "field": "hours",
+      "reason": "lost"
+    },
+    {
+      "student": "s-116",
+      "field": "lab_hours",
+      "reason": "not_asked"
+    }
+  ],
+  "schema": [
+    {
+      "name": "hours",
+      "type": "number",
+      "min": 0,
+      "max": 60
+    },
+    {
+      "name": "part_a",
+      "type": "number",
+      "min": 0,
+      "max": 50
+    },
+    {
+      "name": "part_b",
+      "type": "number",
+      "min": 0,
+      "max": 50
+    },
+    {
+      "name": "score",
+      "type": "number",
+      "min": 0,
+      "max": 100
+    },
+    {
+      "name": "lab_hours",
+      "type": "number",
+      "min": 0,
+      "max": 60
+    },
+    {
+      "name": "major",
+      "type": "category",
+      "categories": [
+        "engineering",
+        "arts",
+        "science"
+      ]
+    }
+  ],
+  "derived": {
+    "score": "part_a + part_b"
+  },
+  "applicability": {
+    "lab_hours": "active_project"
+  },
+  "project_title": "受结构约束的多重填补与下游分析不确定性传递"
+}
